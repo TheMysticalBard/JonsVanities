@@ -1,0 +1,3 @@
+displayName = Jon's Vanities
+author = TheMysticalBard
+version = 0.1
