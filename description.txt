@@ -1,1 +1,3 @@
-Jon's Vanities is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Jon's Vanities is a purely vanity mod that currently only adds fish flops, an item you can fish out of the oceans! Soon fish flops will also make splashes and noise when the player walks, but I wanted to get this out there.
+
+The website link will take you to the GutHub page, please make an issue for suggestions or bugs you enounter! Content suggestions may get implemented if my friend Jon (the namesake of this mod) approves!

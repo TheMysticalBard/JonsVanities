@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 
 namespace JonsVanities.Items
 {
-	//[AutoloadEquip(EquipType.Legs)]
+	[AutoloadEquip(EquipType.Legs)]
 	public class FishFlops : ModItem
 	{
 		public override void SetStaticDefaults() 

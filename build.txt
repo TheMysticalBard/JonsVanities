@@ -1,3 +1,4 @@
 displayName = Jon's Vanities
 author = TheMysticalBard
 version = 0.1
+homepage = https://github.com/TheMysticalBard/JonsVanities
